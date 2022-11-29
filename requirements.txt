@@ -1,0 +1,10 @@
+wikipedia==1.4.0
+PyAutoGUI==0.9.52
+SpeechRecognition==3.8.1
+googletrans==3.1.0a0
+pyttsx3==2.90
+nltk==3.5
+requests==2.24.0
+pywhatkit==3.9
+clipboard==0.0.4
+newsapi_python==0.2.6
