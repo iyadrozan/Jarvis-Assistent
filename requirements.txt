@@ -8,3 +8,4 @@ requests==2.24.0
 pywhatkit==3.9
 clipboard==0.0.4
 newsapi_python==0.2.6
+selenium
